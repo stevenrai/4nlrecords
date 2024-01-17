@@ -1,7 +1,7 @@
 import React from 'react';
 import { Drawer, List, ListItem, ListItemText, Menu } from '@mui/material';
 import { Link, useLocation } from 'react-router-dom';
-import logo from './leaguelogo.png';
+import logo from './TextLogo.png';
 import icon from './menu.png';
 import '../App.css';
 
@@ -35,7 +35,7 @@ const handleDrawerToggle = () => {
       >
         <List>
           <ListItem>
-            <img src={logo} alt="logo" width="auto" height="100" />
+            <img src={logo} alt="logo" width="auto" height="150" />
           </ListItem>
           <ListItem
             button
