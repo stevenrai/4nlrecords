@@ -1,0 +1,26 @@
+{
+  "SeasonStats": {
+    "SeasonStats": [
+      {
+        "gamesplayed": 14,
+        "id": 1,
+        "losses": 4,
+        "manager": "Steven Rai",
+        "totpointsagainst": 1572,
+        "totpointsfor": 1622,
+        "wins": 10,
+        "year": "2012"
+      },
+      {
+        "gamesplayed": 14,
+        "id": 2,
+        "losses": 3,
+        "manager": "Jesse Rai",
+        "totpointsagainst": 1564,
+        "totpointsfor": 1594,
+        "wins": 11,
+        "year": "2012"
+      }
+    ]
+  }
+}

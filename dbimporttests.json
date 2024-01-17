@@ -1,0 +1,1444 @@
+{
+  "SeasonStats": {
+    "SeasonStats": [
+      {
+        "id": 1,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1307.92,
+        "totpointsagainst": 1287.84,
+        "year": "2014",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 38
+
+      },
+      {
+        "id": 2,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1409.82,
+        "totpointsagainst": 1329.36,
+        "year": "2014",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 21
+        
+      },
+
+      {
+        "id": 3,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1394.94,
+        "totpointsagainst": 1243.76,
+        "year": "2014",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 50
+      },
+
+      {
+        "id": 4,
+        "gamesplayed": 13,
+        "wins": 11,
+        "losses": 2,
+        "manager": "Steven Rai",
+        "totpointsfor": 1344.04,
+        "totpointsagainst": 1225.22,
+        "year": "2014",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 18
+      },
+
+      {
+        "id": 5,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1311.94,
+        "totpointsagainst": 1256.66,
+        "year": "2014",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 17
+      },
+
+      {
+        "id": 6,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1186.24,
+        "totpointsagainst": 1303.04,
+        "year": "2014",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 6
+      },
+
+      {
+        "id": 7,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1341.82,
+        "totpointsagainst": 1303.32,
+        "year": "2014",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 17
+      },
+
+      {
+        "id": 8,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1177.90,
+        "totpointsagainst": 1334.86,
+        "year": "2014",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 23
+      },
+
+      {
+        "id": 9,
+        "gamesplayed": 13,
+        "wins": 3,
+        "losses": 10,
+        "manager": "Rav Bains",
+        "totpointsfor": 1144.34,
+        "totpointsagainst": 1272.94,
+        "year": "2014",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 30
+      },
+
+      {
+        "id": 10,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Kavan Dhillon",
+        "totpointsfor": 1310.26,
+        "totpointsagainst": 1372.22,
+        "year": "2014",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 33
+      },
+
+      {
+        "id": 11,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1236.20,
+        "totpointsagainst": 1326.88,
+        "year": "2015",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 111
+
+      },
+      {
+        "id": 12,
+        "gamesplayed": 13,
+        "wins": 10,
+        "losses": 3,
+        "manager": "Steven Rai",
+        "totpointsfor": 1360.44,
+        "totpointsagainst": 1213.10,
+        "year": "2015",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 37
+        
+      },
+
+      {
+        "id": 13,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1224.06,
+        "totpointsagainst": 1187.34,
+        "year": "2015",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 32
+      },
+
+      {
+        "id": 14,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Kavan Dhillon",
+        "totpointsfor": 1391.98,
+        "totpointsagainst": 1259.56,
+        "year": "2015",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 29
+      },
+
+      {
+        "id": 15,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1327.58,
+        "totpointsagainst": 1216.80,
+        "year": "2015",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 16
+      },
+
+      {
+        "id": 16,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1294.38,
+        "totpointsagainst": 1273.84,
+        "year": "2015",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 17
+      },
+
+      {
+        "id": 17,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1251.74,
+        "totpointsagainst": 1234.36,
+        "year": "2015",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 25
+      },
+
+      {
+        "id": 18,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Rav Bains",
+        "totpointsfor": 1330.54,
+        "totpointsagainst": 1273.80,
+        "year": "2015",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 25
+      },
+
+      {
+        "id": 19,
+        "gamesplayed": 13,
+        "wins": 2,
+        "losses": 11,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1175.66,
+        "totpointsagainst": 1367.12,
+        "year": "2015",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 19
+      },
+
+      {
+        "id": 20,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1063.46,
+        "totpointsagainst": 1303.24,
+        "year": "2015",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 14
+      },
+
+      {
+        "id": 21,
+        "gamesplayed": 13,
+        "wins": 9,
+        "losses": 4,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1374.60,
+        "totpointsagainst": 1164.90,
+        "year": "2016",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 14
+
+      },
+      {
+        "id": 22,
+        "gamesplayed": 13,
+        "wins": 11,
+        "losses": 2,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1400.18,
+        "totpointsagainst": 1155.36,
+        "year": "2016",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 26
+        
+      },
+
+      {
+        "id": 23,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1312.00,
+        "totpointsagainst": 1296.52,
+        "year": "2016",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 102
+      },
+
+      {
+        "id": 24,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Steven Rai",
+        "totpointsfor": 1195.84,
+        "totpointsagainst": 1219.48,
+        "year": "2016",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 53
+      },
+
+      {
+        "id": 25,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1444.02,
+        "totpointsagainst": 1315.10,
+        "year": "2016",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 16
+      },
+
+      {
+        "id": 26,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Rav Bains",
+        "totpointsfor": 1289.68,
+        "totpointsagainst": 1360.36,
+        "year": "2016",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 30
+      },
+
+      {
+        "id": 27,
+        "gamesplayed": 13,
+        "wins": 3,
+        "losses": 10,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1049.98,
+        "totpointsagainst": 11291.34,
+        "year": "2016",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 28
+      },
+
+      {
+        "id": 28,
+        "gamesplayed": 13,
+        "wins": 4,
+        "losses": 9,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1236.26,
+        "totpointsagainst": 1401.90,
+        "year": "2016",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 31
+      },
+
+      {
+        "id": 29,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1283.62,
+        "totpointsagainst": 1351.62,
+        "year": "2016",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 12
+      },
+
+      {
+        "id": 30,
+        "gamesplayed": 13,
+        "wins": 4,
+        "losses": 9,
+        "manager": "Kavan Dhillon",
+        "totpointsfor": 1307.68,
+        "totpointsagainst": 1337.28,
+        "year": "2016",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 38
+      },
+
+      {
+        "id": 31,
+        "gamesplayed": 13,
+        "wins": 10,
+        "losses": 3,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1309.00,
+        "totpointsagainst": 1199.22,
+        "year": "2017",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 51
+
+      },
+      {
+        "id": 32,
+        "gamesplayed": 13,
+        "wins": 9,
+        "losses": 4,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1327.80,
+        "totpointsagainst": 1211.62,
+        "year": "2017",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 26
+        
+      },
+
+      {
+        "id":33,
+        "gamesplayed": 13,
+        "wins": 9,
+        "losses": 4,
+        "manager": "Kavan Dhillon",
+        "totpointsfor": 1327.80,
+        "totpointsagainst": 1211.62,
+        "year": "2017",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 15
+      },
+
+      {
+        "id": 34,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Rav Bains",
+        "totpointsfor": 1320.00,
+        "totpointsagainst": 1218.04,
+        "year": "2017",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 52
+      },
+
+      {
+        "id": 35,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Steven Rai",
+        "totpointsfor": 1245.04,
+        "totpointsagainst": 1240.18,
+        "year": "2017",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 34
+      },
+
+      {
+        "id": 36,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1185.66,
+        "totpointsagainst": 1129.82,
+        "year": "2017",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 20
+      },
+
+      {
+        "id": 37,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1178.70,
+        "totpointsagainst": 1258.08,
+        "year": "2017",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 32
+      },
+
+      {
+        "id": 38,
+        "gamesplayed": 13,
+        "wins": 3,
+        "losses": 10,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1156.76,
+        "totpointsagainst": 1256.58,
+        "year": "2017",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 8
+      },
+
+      {
+        "id": 39,
+        "gamesplayed": 13,
+        "wins": 3,
+        "losses": 10,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 992.16,
+        "totpointsagainst": 1169.34,
+        "year": "2017",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 8
+      },
+
+      {
+        "id": 40,
+        "gamesplayed": 13,
+        "wins": 4,
+        "losses": 9,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1065.10,
+        "totpointsagainst": 1200.24,
+        "year": "2017",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 21
+      },
+
+      {
+        "id": 41,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1317.00,
+        "totpointsagainst": 1167.42,
+        "year": "2018",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 24
+
+      },
+      {
+        "id": 42,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Steven Rai",
+        "totpointsfor": 1261.10,
+        "totpointsagainst": 1251.52,
+        "year": "2018",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 36
+        
+      },
+
+      {
+        "id": 43,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1538.82,
+        "totpointsagainst": 1338.22,
+        "year": "2018",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 5
+      },
+
+      {
+        "id": 44,
+        "gamesplayed": 13,
+        "wins": 9,
+        "losses": 4,
+        "manager": "Kavan Dhillon",
+        "totpointsfor": 1466.96,
+        "totpointsagainst": 1150.10,
+        "year": "2018",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 24
+      },
+
+      {
+        "id": 45,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1311.30,
+        "totpointsagainst": 1150.10,
+        "year": "2018",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 39
+      },
+
+      {
+        "id": 46,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1409.70,
+        "totpointsagainst": 1271.54,
+        "year": "2018",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 30
+      },
+
+      {
+        "id": 47,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1385.74,
+        "totpointsagainst": 1488.38,
+        "year": "2018",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 37
+      },
+
+      {
+        "id": 48,
+        "gamesplayed": 13,
+        "wins": 4,
+        "losses": 9,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1278.26,
+        "totpointsagainst": 1497.64,
+        "year": "2018",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 25
+      },
+
+      {
+        "id": 49,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Rav Bains",
+        "totpointsfor": 1252.68,
+        "totpointsagainst": 1439.66,
+        "year": "2018",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 64
+      },
+
+      {
+        "id": 50,
+        "gamesplayed": 13,
+        "wins": 3,
+        "losses": 10,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1240.06,
+        "totpointsagainst": 1450.14,
+        "year": "2018",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 21
+      },
+
+      {
+        "id": 51,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Jason Rai",
+        "totpointsfor": 1232.14,
+        "totpointsagainst": 1268.06,
+        "year": "2019",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 50
+
+      },
+      {
+        "id": 52,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Rav Bains",
+        "totpointsfor": 1325.20,
+        "totpointsagainst": 1240.26,
+        "year": "2019",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 35
+        
+      },
+
+      {
+        "id": 53,
+        "gamesplayed": 13,
+        "wins": 11,
+        "losses": 2,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1616.30,
+        "totpointsagainst": 1237.22,
+        "year": "2019",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 32
+      },
+
+      {
+        "id": 54,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1368.74,
+        "totpointsagainst": 1236.52,
+        "year": "2019",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 18
+      },
+
+      {
+        "id": 55,
+        "gamesplayed": 13,
+        "wins": 7,
+        "losses": 6,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1253.60,
+        "totpointsagainst": 1412.80,
+        "year": "2019",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 25
+      },
+
+      {
+        "id": 56,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1245.08,
+        "totpointsagainst": 1276.42,
+        "year": "2019",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 21
+      },
+
+      {
+        "id": 57,
+        "gamesplayed": 13,
+        "wins": 4,
+        "losses": 9,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1330.64,
+        "totpointsagainst": 1462.32,
+        "year": "2019",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 40
+      },
+
+      {
+        "id": 58,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Steven Rai",
+        "totpointsfor": 1208.32,
+        "totpointsagainst": 1280.88,
+        "year": "2019",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 41
+      },
+
+      {
+        "id": 59,
+        "gamesplayed": 13,
+        "wins": 4,
+        "losses": 9,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1096.98,
+        "totpointsagainst": 1339.00,
+        "year": "2019",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 39
+      },
+
+      {
+        "id": 60,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1177.38,
+        "totpointsagainst": 1100.90,
+        "year": "2019",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 46
+      },
+
+      {
+        "id": 61,
+        "gamesplayed": 13,
+        "wins": 10,
+        "losses": 3,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1490.44,
+        "totpointsagainst": 1341.00,
+        "year": "2020",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 23
+
+      },
+      {
+        "id": 62,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1447.50,
+        "totpointsagainst": 1260.12,
+        "year": "2020",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 51
+        
+      },
+
+      {
+        "id": 63,
+        "gamesplayed": 13,
+        "wins": 9,
+        "losses": 4,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1409.02,
+        "totpointsagainst": 1357.86,
+        "year": "2020",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 16
+      },
+
+      {
+        "id": 64,
+        "gamesplayed": 13,
+        "wins": 8,
+        "losses": 5,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1375.32,
+        "totpointsagainst": 1299.50,
+        "year": "2020",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 33
+      },
+
+      {
+        "id": 65,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1301.68,
+        "totpointsagainst": 1221.44,
+        "year": "2020",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 32
+      },
+
+      {
+        "id": 66,
+        "gamesplayed": 13,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1234.18,
+        "totpointsagainst": 1251.88,
+        "year": "2020",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 42
+      },
+
+      {
+        "id": 67,
+        "gamesplayed": 13,
+        "wins": 5,
+        "losses": 8,
+        "manager": "Steven Rai",
+        "totpointsfor": 1457.40,
+        "totpointsagainst": 1540.94,
+        "year": "2020",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 20
+      },
+
+      {
+        "id": 68,
+        "gamesplayed": 13,
+        "wins": 3,
+        "losses": 10,
+        "manager": "Jason Rai",
+        "totpointsfor": 1085.38,
+        "totpointsagainst": 1360.14,
+        "year": "2020",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 44
+      },
+
+      {
+        "id": 69,
+        "gamesplayed": 13,
+        "wins": 4,
+        "losses": 9,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1263.70,
+        "totpointsagainst": 1352.36,
+        "year": "2020",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 28
+      },
+
+      {
+        "id": 70,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 7,
+        "manager": "Rav Bains",
+        "totpointsfor": 1211.58,
+        "totpointsagainst": 1290.96,
+        "year": "220",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 50
+      },
+
+      {
+        "id": 71,
+        "gamesplayed": 14,
+        "wins": 7,
+        "losses": 7,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1521.94,
+        "totpointsagainst": 1466.16,
+        "year": "2021",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 26
+
+      },
+      {
+        "id": 72,
+        "gamesplayed": 14,
+        "wins": 7,
+        "losses": 7,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1575.66,
+        "totpointsagainst": 1517.92,
+        "year": "2021",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 22
+        
+      },
+
+      {
+        "id": 73,
+        "gamesplayed": 14,
+        "wins": 13,
+        "losses": 1,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1594.46,
+        "totpointsagainst": 1262.12,
+        "year": "2021",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 36
+      },
+
+      {
+        "id": 74,
+        "gamesplayed": 14,
+        "wins": 8,
+        "losses": 6,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1347.60,
+        "totpointsagainst": 1375.92,
+        "year": "2021",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 36
+      },
+
+      {
+        "id": 75,
+        "gamesplayed": 14,
+        "wins": 7,
+        "losses": 7,
+        "manager": "Steven Rai",
+        "totpointsfor": 1460.76,
+        "totpointsagainst": 1377.16,
+        "year": "2021",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 56
+      },
+
+      {
+        "id": 76,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1417.30,
+        "totpointsagainst": 1487.02,
+        "year": "2021",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 31
+      },
+
+      {
+        "id": 77,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1300.50,
+        "totpointsagainst": 1376.30,
+        "year": "2021",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 26
+      },
+
+      {
+        "id": 78,
+        "gamesplayed": 14,
+        "wins": 4,
+        "losses": 10,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1237.90,
+        "totpointsagainst": 1452.92,
+        "year": "2021",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 16
+      },
+
+      {
+        "id": 79,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Vic Rai",
+        "totpointsfor": 1417.24,
+        "totpointsagainst": 1467.80,
+        "year": "2021",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 116
+      },
+
+      {
+        "id": 80,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Rav Bains",
+        "totpointsfor": 1276.76,
+        "totpointsagainst": 1366.80,
+        "year": "2021",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 25
+      },
+
+      {
+        "id": 81,
+        "gamesplayed": 14,
+        "wins": 10,
+        "losses": 4,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1647.26,
+        "totpointsagainst": 1448.64,
+        "year": "2022",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 40
+
+      },
+      {
+        "id": 82,
+        "gamesplayed": 14,
+        "wins": 10,
+        "losses": 4,
+        "manager": "Rav Bains",
+        "totpointsfor": 1499.94,
+        "totpointsagainst": 1328.20,
+        "year": "2022",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 20
+        
+      },
+
+      {
+        "id": 83,
+        "gamesplayed": 14,
+        "wins": 8,
+        "losses": 6,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1394.96,
+        "totpointsagainst": 1413.08,
+        "year": "2022",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 19
+      },
+
+      {
+        "id": 84,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1368.22,
+        "totpointsagainst": 1546.42,
+        "year": "2022",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 42
+      },
+
+      {
+        "id": 85,
+        "gamesplayed": 14,
+        "wins": 9,
+        "losses": 5,
+        "manager": "Kavan Dhillon",
+        "totpointsfor": 1467.60,
+        "totpointsagainst": 1209.18,
+        "year": "2022",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 8
+      },
+
+      {
+        "id": 86,
+        "gamesplayed": 14,
+        "wins": 10,
+        "losses": 4,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1424.96,
+        "totpointsagainst": 1374.44,
+        "year": "2022",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 33
+      },
+
+      {
+        "id": 87,
+        "gamesplayed": 14,
+        "wins": 2,
+        "losses": 12,
+        "manager": "Steven Rai",
+        "totpointsfor": 1331.36,
+        "totpointsagainst": 1530.42,
+        "year": "2022",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 41
+      },
+
+      {
+        "id": 88,
+        "gamesplayed": 14,
+        "wins": 4,
+        "losses": 10,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1424.68,
+        "totpointsagainst": 1563.00,
+        "year": "2022",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 20
+      },
+
+      {
+        "id": 89,
+        "gamesplayed": 14,
+        "wins": 5,
+        "losses": 9,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1382.52,
+        "totpointsagainst": 1371.12,
+        "year": "2022",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 27
+      },
+
+      {
+        "id": 90,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1273.48,
+        "totpointsagainst": 1430.48,
+        "year": "2022",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 27
+      },
+
+      {
+        "id": 91,
+        "gamesplayed": 14,
+        "wins": 11,
+        "losses": 3,
+        "manager": "Muhammad Qaiser",
+        "totpointsfor": 1498.08,
+        "totpointsagainst": 1333.76,
+        "year": "2023",
+        "isplayoff": true,
+        "finalrank": 1,
+        "rostermoves": 22
+
+      },
+      {
+        "id": 92,
+        "gamesplayed": 14,
+        "wins": 10,
+        "losses": 4,
+        "manager": "Rav Bains",
+        "totpointsfor": 1490.30,
+        "totpointsagainst": 1280.74,
+        "year": "2023",
+        "isplayoff": true,
+        "finalrank": 2,
+        "rostermoves": 47
+        
+      },
+
+      {
+        "id": 93,
+        "gamesplayed": 14,
+        "wins": 9,
+        "losses": 5,
+        "manager": "Jesse Rai",
+        "totpointsfor": 1405.04,
+        "totpointsagainst": 1309.44,
+        "year": "2023",
+        "isplayoff": true,
+        "finalrank": 3,
+        "rostermoves": 30
+      },
+
+      {
+        "id": 94,
+        "gamesplayed": 14,
+        "wins": 9,
+        "losses": 5,
+        "manager": "Steven Rai",
+        "totpointsfor": 1570.76,
+        "totpointsagainst": 1482.86,
+        "year": "2023",
+        "isplayoff": true,
+        "finalrank": 4,
+        "rostermoves": 41
+      },
+
+      {
+        "id": 85,
+        "gamesplayed": 14,
+        "wins": 7,
+        "losses": 7,
+        "manager": "Kavan Dhillon",
+        "totpointsfor": 1512.84,
+        "totpointsagainst": 1427.78,
+        "year": "2023",
+        "isplayoff": true,
+        "finalrank": 5,
+        "rostermoves": 9
+      },
+
+      {
+        "id": 96,
+        "gamesplayed": 14,
+        "wins": 8,
+        "losses": 6,
+        "manager": "Gaurav Sandhar",
+        "totpointsfor": 1517.26,
+        "totpointsagainst": 1483.76,
+        "year": "2023",
+        "isplayoff": true,
+        "finalrank": 6,
+        "rostermoves": 30
+      },
+
+      {
+        "id": 97,
+        "gamesplayed": 14,
+        "wins": 3,
+        "losses": 11,
+        "manager": "Rajdeep Malhi",
+        "totpointsfor": 1363.00,
+        "totpointsagainst": 1501.18,
+        "year": "2023",
+        "isplayoff": false,
+        "finalrank": 7,
+        "rostermoves": 22
+      },
+
+      {
+        "id": 98,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Sagar Malhi",
+        "totpointsfor": 1354.98,
+        "totpointsagainst": 1459.60,
+        "year": "2023",
+        "isplayoff": false,
+        "finalrank": 8,
+        "rostermoves": 33
+      },
+
+      {
+        "id": 99,
+        "gamesplayed": 14,
+        "wins": 1,
+        "losses": 13,
+        "manager": "Gavinder Randhawa",
+        "totpointsfor": 1172.62,
+        "totpointsagainst": 1528.38,
+        "year": "2023",
+        "isplayoff": false,
+        "finalrank": 9,
+        "rostermoves": 19
+      },
+
+      {
+        "id": 100,
+        "gamesplayed": 14,
+        "wins": 6,
+        "losses": 8,
+        "manager": "Gavan Dhillon",
+        "totpointsfor": 1327.36,
+        "totpointsagainst": 1404.74,
+        "year": "2023",
+        "isplayoff": false,
+        "finalrank": 10,
+        "rostermoves": 32
+      }
+      
+    ]
+  },
+
+  "SingleGameStats": {
+    "SingleGameStats": [
+      {
+        "gamesplayed": 16,
+        "id": 1,
+        "losses": 4,
+        "manager": "Steven Rai",
+        "totpointsagainst": 1572,
+        "totpointsfor": 1622,
+        "wins": 10,
+        "year": "2012"
+      },
+      {
+        "gamesplayed": 16,
+        "id": 2,
+        "losses": 3,
+        "manager": "Jesse Rai",
+        "totpointsagainst": 1564,
+        "totpointsfor": 1594,
+        "wins": 11,
+        "year": "2012"
+      }
+    ]
+  }
+
+
+
+}
