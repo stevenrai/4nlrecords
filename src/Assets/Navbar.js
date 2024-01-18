@@ -1,7 +1,7 @@
 import React from 'react';
 import { Drawer, List, ListItem, ListItemText, Menu } from '@mui/material';
 import { Link, useLocation } from 'react-router-dom';
-import logo from './TextLogo.png';
+import logo from './TextLogo1.png';
 import icon from './menu.png';
 import '../App.css';
 
@@ -29,13 +29,12 @@ const handleDrawerToggle = () => {
             width: 250,
             backgroundColor: '#365367',
             borderColor : '#365367',
-
           },
         }}
       >
         <List>
           <ListItem>
-            <img src={logo} alt="logo" width="auto" height="150" />
+            <img src={logo} alt="logo" width="auto" height="75" />
           </ListItem>
           <ListItem
             button
