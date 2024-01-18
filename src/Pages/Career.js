@@ -85,11 +85,14 @@ export default function CareerRecords() {
   return (
     <div>
         <Header label="Career Records" />
+        <div className="data-grid-container">
         <DataGrid
           rows={data} // Use the fetched data instead of the static 'rows'
           columns={columns}
-          initialState={{ pagination: { paginationModel: { page: 0, pageSize: 25 }, }, 
+          initialState={{ pagination: { paginationModel: { page: 0, pageSize: 15 }, }, 
           sorting: { sortModel: [{ field: 'avgpointsfor', sort: 'desc' }], }, }} 
-          pageSizeOptions={[25, 50]} /> </div>
+          pageSizeOptions={[15, 25]} /> </div>
+                      </div>
+
         
         ); }
