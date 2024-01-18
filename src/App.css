@@ -19,3 +19,10 @@
     padding-top: 8px;
   }
 }
+
+.customtable-header {
+  background-color: #f9f4e6; /* Set your desired background color */
+  color: #365367; /* Set your desired text color */
+  font-weight: bold;
+  /* Add any other styling you need */
+}
