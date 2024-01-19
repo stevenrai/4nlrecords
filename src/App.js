@@ -9,6 +9,7 @@ import SingleGame from './Pages/SingleGame';
 import SingleSeason from './Pages/SingleSeason';
 import Career from './Pages/Career';
 import H2H from './Pages/H2H';
+import Home from './Pages/Home';
 
 function App() {
  const isMobile = useMediaQuery('(max-width:600px)');
@@ -18,6 +19,7 @@ function App() {
      <div>
         <Navbar isMobile={isMobile} />
           <Routes>
+            <Route path="/Home" element={<Home />} />
             <Route path="/ChampionsClub" element={<ChampionsClub />} />
             <Route path="/SingleGame" element={<SingleGame />} />
             <Route path="/SingleSeason" element={<SingleSeason />} />

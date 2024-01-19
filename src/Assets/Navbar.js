@@ -33,10 +33,22 @@ const handleDrawerToggle = () => {
         }}
       >
         <List>
+
           <ListItem>
             <img src={logo} alt="logo" width="auto" height="75" />
           </ListItem>
+
           <ListItem
+            button
+            component={Link}
+            to="/Home"
+            sx={{ backgroundColor: location.pathname === '/Home' ? '#f494AB' : '', "&:hover": { backgroundColor: "#ffbaa2",}, color: location.pathname === '/SingleSeason' ? '#f9f4e6' : '' }}
+          >
+            <ListItemText primary="Home" sx={{ color: location.pathname === '/Home' ? '#365367' : '#f9f4e6', }} />
+          </ListItem>
+
+       { /*  
+        <ListItem
             button
             component={Link}
             to="/ChampionsClub"
@@ -51,7 +63,9 @@ const handleDrawerToggle = () => {
             sx={{ backgroundColor: location.pathname === '/SingleGame' ? '#f494AB' : '', "&:hover": { backgroundColor: "#ffbaa2",}, color: location.pathname === '/SingleGame' ? '#f9f4e6' : '' }}
           >
             <ListItemText primary="Game Records" sx={{ color: location.pathname === '/SingleGame' ? '#365367' : '#f9f4e6', }} />
-          </ListItem>
+          </ListItem> 
+      */ }
+
           <ListItem
             button
             component={Link}
@@ -60,6 +74,7 @@ const handleDrawerToggle = () => {
           >
             <ListItemText primary="Season Records" sx={{ color: location.pathname === '/SingleSeason' ? '#365367' : '#f9f4e6', }} />
           </ListItem>
+
           <ListItem
             button
             component={Link}
@@ -68,6 +83,7 @@ const handleDrawerToggle = () => {
           >
             <ListItemText primary="Career Records" sx={{ color: location.pathname === '/Career' ? '#365367' : '#f9f4e6', }} />
           </ListItem>
+
           <ListItem
             button
             component={Link}
@@ -76,6 +92,7 @@ const handleDrawerToggle = () => {
           >
             <ListItemText primary="Head to Head Stats" sx={{ color: location.pathname === '/H2H' ? '#365367' : '#f9f4e6', }} />
           </ListItem>
+
         </List>
       </Drawer>
       {isMobile && <button onClick={() => toggleDrawer(true)}><img src={icon} alt="menu" width="24" height="24" /></button>}
