@@ -1,12 +1,29 @@
-import React from 'react';
+import * as React from 'react';
+import { PieChart } from '@mui/x-charts/PieChart';
+import Header from '../Assets/Header.js';
 
-function H2H() {
+
+export default function H2H() {
   return (
-    <div className="Header">
-            <h1>Head to Head Stats</h1> 
-            <div className="line-separator"></div> 
-    </div>
+    <div>
+    <Header label="Head to Head" />
+    <div className="chartstyle">
+
+    <PieChart
+      series={[
+        {
+          data: [
+            { id: 0, value: 10, label: 'Coming' },
+            { id: 1, value: 15, label: 'Soon' },
+            { id: 2, value: 20, label: 'Go Away' },
+          ],
+        },
+      ]}
+      width={400}
+      height={200}
+    />
+     </div>
+     </div>
+
   );
 }
-
-export default H2H;

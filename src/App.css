@@ -26,3 +26,10 @@
   font-weight: bold;
   /* Add any other styling you need */
 }
+
+@media (min-width: 600px) {
+  .chartstyle {
+    padding-left: 260px;
+    padding-top: 8px;
+  }
+}
