@@ -93,7 +93,7 @@ export default function CareerRecords() {
   return (
     <div>
         <Header label="Career Records" />
-        <div className="data-grid-container">
+        <div className="desktop-padding">
         <DataGrid
           rows={data} // Use the fetched data instead of the static 'rows'
           columns={columns}

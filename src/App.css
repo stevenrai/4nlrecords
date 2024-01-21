@@ -13,12 +13,6 @@
   margin-left: -20vw;
  }
 
- @media (min-width: 600px) {
-  .data-grid-container {
-    padding-left: 260px;
-    padding-top: 8px;
-  }
-}
 
 .customtable-header {
   background-color: #f9f4e6; /* Set your desired background color */
@@ -28,7 +22,7 @@
 }
 
 @media (min-width: 600px) {
-  .chartstyle {
+  .desktop-padding {
     padding-left: 260px;
     padding-top: 8px;
   }

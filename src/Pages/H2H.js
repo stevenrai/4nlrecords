@@ -7,7 +7,7 @@ export default function H2H() {
   return (
     <div>
     <Header label="Head to Head" />
-    <div className="chartstyle">
+    <div className="desktop-padding">
 
     <PieChart
       series={[

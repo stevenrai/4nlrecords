@@ -72,7 +72,7 @@ export default function SingleSeasonRecords() {
   return (
     <div>
       <Header label="Season Records" />
-      <div className="data-grid-container">
+      <div className="desktop-padding">
         <DataGrid
           rows={data} // Use the fetched data instead of the static 'rows'
           columns={columns}

@@ -54,6 +54,10 @@ const defaultTheme = createTheme();
 
 export default function Blog() {
   return (
+
+        <div>
+      <Header label="Home" />
+      <div className="desktop-padding">
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline />
       <Container maxWidth="lg">
@@ -70,6 +74,9 @@ export default function Blog() {
         </main>
       </Container>
     </ThemeProvider>
+    </div>
+    </div>
+
   );
 }
 
