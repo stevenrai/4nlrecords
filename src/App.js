@@ -10,6 +10,8 @@ import SingleSeason from './Pages/SingleSeason';
 import Career from './Pages/Career';
 import H2H from './Pages/H2H';
 import Home from './Pages/Home';
+import Readmore from './Pages/readmore';
+
 
 function App() {
  const isMobile = useMediaQuery('(max-width:600px)');
@@ -25,6 +27,8 @@ function App() {
             <Route path="/SingleSeason" element={<SingleSeason />} />
             <Route path="/Career" element={<Career />} />
             <Route path="/H2H" element={<H2H />} />
+            <Route path="/Readmore" element={<Readmore />} />
+
           </Routes>
       </div>
     </Router>

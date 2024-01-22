@@ -24,7 +24,7 @@ const importMarkdown = async (markdownFile) => {
 const mainFeaturedPost = {
   title: 'Title remains in the hands of Muhammad',
   description: "Multiple doubters proved wrong as the 2023 championship game vindicates last year's championship controversy.",
-  image: 'https://media.npr.org/assets/img/2022/12/21/ap22354741249929-1b9e8ff458fb38043a4148ffefb4eb37efc7b9e1-s800-c85.webp',
+  image: 'https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2020/07/WCW-Big-Gold-Cropped.png?q=50&fit=crop&w=740&dpr=1.5',
   imageText: 'main image description',
   linkText: 'Continue reading…',
 };

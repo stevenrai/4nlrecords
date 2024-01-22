@@ -42,7 +42,7 @@ const handleDrawerToggle = () => {
             button
             component={Link}
             to="/Home"
-            sx={{ backgroundColor: location.pathname === '/Home' ? '#f494AB' : '', "&:hover": { backgroundColor: "#ffbaa2",}, color: location.pathname === '/SingleSeason' ? '#f9f4e6' : '' }}
+            sx={{ backgroundColor: location.pathname === '/Home' ? '#f494AB' : '', "&:hover": { backgroundColor: "#ffbaa2",}, color: location.pathname === '/Home' ? '#f9f4e6' : '' }}
           >
             <ListItemText primary="Home" sx={{ color: location.pathname === '/Home' ? '#365367' : '#f9f4e6', }} />
           </ListItem>
