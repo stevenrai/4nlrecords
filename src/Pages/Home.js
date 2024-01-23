@@ -32,14 +32,14 @@ const mainFeaturedPost = {
 const featuredPosts = [
   {
     title: 'Do you suck?',
-    date: 'Jan 30',
+    date: 'January 22',
     description: 'Are you making some of these common mistakes when it comes to managing your team?',
     image: 'https://st2.depositphotos.com/1158045/5715/i/450/depositphotos_57151645-Businessman-pointing-his-finger-at-you.jpg',
     imageLabel: 'Image Text',
   },
   {
     title: 'Changes coming to 4NL in 2024',
-    date: 'February 2',
+    date: 'Janurary 20',
     description: 'Thoughts from the commish on potential changes in the new year',
     image: 'https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2017/changes.png',
     imageLabel: 'Image Text',
