@@ -93,13 +93,13 @@ export default function CareerRecords() {
   return (
     <div>
         <Header label="Career Records" />
-        <div className="desktop-padding">
         <DataGrid
+          className="desktop-padding"
           rows={data} // Use the fetched data instead of the static 'rows'
           columns={columns}
           initialState={{ pagination: { paginationModel: { page: 0, pageSize: 15 }, }, 
-          sorting: { sortModel: [{ field: 'avgpointsfor', sort: 'desc' }], }, }} 
-          pageSizeOptions={[15, 25]} /> </div>
+          sorting: { sortModel: [{ field: 'winperc', sort: 'desc' }], }, }} 
+          pageSizeOptions={[15, 25]} /> 
     </div>
 
         

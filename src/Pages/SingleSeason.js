@@ -72,13 +72,13 @@ export default function SingleSeasonRecords() {
   return (
     <div>
       <Header label="Single-Season Records" />
-      <div className="desktop-padding">
         <DataGrid
+        className="desktop-padding"
           rows={data} // Use the fetched data instead of the static 'rows'
           columns={columns}
           initialState={{ pagination: { paginationModel: { page: 0, pageSize: 10 }, }, 
-          sorting: { sortModel: [{ field: 'avgpointsfor', sort: 'desc' }], }, }} 
-          pageSizeOptions={[10, 25]} /> </div>
+          sorting: { sortModel: [{ field: 'wins', sort: 'desc' }], }, }} 
+          pageSizeOptions={[10, 25]} /> 
             </div>
 
         ); }
