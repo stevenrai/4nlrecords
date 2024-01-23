@@ -72,7 +72,7 @@ const handleDrawerToggle = () => {
             to="/SingleSeason"
             sx={{ backgroundColor: location.pathname === '/SingleSeason' ? '#f494AB' : '', "&:hover": { backgroundColor: "#ffbaa2",}, color: location.pathname === '/SingleSeason' ? '#f9f4e6' : '' }}
           >
-            <ListItemText primary="Season Records" sx={{ color: location.pathname === '/SingleSeason' ? '#365367' : '#f9f4e6', }} />
+            <ListItemText primary="Single-Season Records" sx={{ color: location.pathname === '/SingleSeason' ? '#365367' : '#f9f4e6', }} />
           </ListItem>
 
           <ListItem
