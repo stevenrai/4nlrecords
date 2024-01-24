@@ -55,7 +55,9 @@ export default function SingleSeasonRecords() {
         if (result && Array.isArray(result.SeasonStats)) {
           const flattenedRows = result.SeasonStats
             .filter(row => row !== null && typeof row === 'object')
-            .map(row => ({ ...row }));
+            .map(row => ({ ...row }))
+            .sort((a, b) => b.wins - a.wins); // sort by wins in descending order
+
           console.log('Processed data:', flattenedRows);
           setData(flattenedRows);
         } else {

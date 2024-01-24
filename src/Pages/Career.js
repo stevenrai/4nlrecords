@@ -76,7 +76,9 @@ export default function CareerRecords() {
           }, {});
     
           // Convert the object values back to an array
-          const flattenedRows = Object.values(groupedData);
+          const flattenedRows = Object.values(groupedData)
+          .sort((a, b) => b.wins - a.wins); // sort by wins in descending order
+          
           console.log('Processed data:', flattenedRows);
           setData(flattenedRows);
         } else {

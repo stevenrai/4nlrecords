@@ -24,8 +24,7 @@ function App() {
             <Route path="/Home" element={<Home />} />
          {  /* <Route path="/ChampionsClub" element={<ChampionsClub />} /> 
             <Route path="/SingleGame" element={<SingleGame />} /> */
-            
-          }
+         }
             <Route path="/SingleSeason" element={<SingleSeason />} />
             <Route path="/Career" element={<Career />} />
             <Route path="/H2H" element={<H2H />} />

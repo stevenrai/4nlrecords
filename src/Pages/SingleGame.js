@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { DataGrid } from '@mui/x-data-grid';
 import { getData } from '../firebase';
+import Header from '../Assets/Header.js';
 
 const columns = [
   //{ field: 'id', headerName: 'ID', width: 70 },
@@ -35,14 +36,14 @@ const rows = [
 
 export default function SingleGameRecords() { 
   return ( 
-  <div className="Header"> <h1>Single Game Records</h1>
-  <div className="line-separator"></div> 
-  <div style={{ height: '100%', width: '100%', paddingTop: '2rem'}}> 
-  <DataGrid 
-  rows={rows} 
-  columns={columns} 
-  initialState={{ pagination: { paginationModel: { page: 0, pageSize: 25 }, }, 
-  sorting: { sortModel: [{ field: 'avgpointsfor', sort: 'desc' }], }, }} 
-  pageSizeOptions={[25, 50]} /> </div> </div>
-
+    <div>
+      <Header label="Game Records" />
+        <DataGrid
+        className="desktop-padding"
+          rows={rows} 
+          columns={columns}
+          initialState={{ pagination: { paginationModel: { page: 0, pageSize: 10 }, }, 
+          sorting: { sortModel: [{ field: 'wins', sort: 'desc' }], }, }} 
+          pageSizeOptions={[10, 25]} /> 
+            </div>
 ); }
