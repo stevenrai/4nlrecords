@@ -1,5 +1,5 @@
-# Last Place Gavinder
+# New League Site Lauched!
 
-December 15, 2023 
+January 22, 2024
 
-It's official, Gavinder has secured the last place spot for the 2023 season. This means he will be responsible for completing the "Perfect 300" bowling punishment. More to come...
+The new league site is now live, updated with the new league logo, statistics for career records and single season records, and more. Check in on the league site for new features and updates regularly. 

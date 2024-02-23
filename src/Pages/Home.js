@@ -13,6 +13,8 @@ import Main from './Main';
 import post1 from './blog-post.1.md';
 import post2 from './blog-post.2.md';
 import post3 from './blog-post.3.md';
+import post4 from './blog-post.4.md';
+
 
 // Function to read markdown content from a file
 const importMarkdown = async (markdownFile) => {
@@ -47,7 +49,7 @@ const featuredPosts = [
 ];
 
 // Load the content of the markdown files
-const posts = [await importMarkdown(post1), await importMarkdown(post2), await importMarkdown(post3)];
+const posts = [await importMarkdown(post4), await importMarkdown(post3), await importMarkdown(post2), await importMarkdown(post1)];
 
 // TODO remove, this demo shouldn't need to reset the theme.
 const defaultTheme = createTheme();
