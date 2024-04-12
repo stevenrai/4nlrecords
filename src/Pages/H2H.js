@@ -14,7 +14,7 @@ export default function H2H() {
         {
           data: [
             { id: 0, value: 10, label: 'Coming' },
-            { id: 1, value: 15, label: 'Soon' },
+            { id: 1, value: 15, label: 'Soonish' },
             { id: 2, value: 20, label: 'Go Away' },
           ],
         },
