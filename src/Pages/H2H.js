@@ -6,7 +6,7 @@ import Header from '../Assets/Header.js';
 export default function H2H() {
   return (
     <div>
-    <Header label="Head to Head1" />
+    <Header label="Head to Head" />
     <div className="desktop-padding">
 
     <PieChart
